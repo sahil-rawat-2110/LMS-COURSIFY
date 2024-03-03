@@ -75,11 +75,9 @@ from learners and instructors to continuously improve
 course content, delivery methods, and the overall learning 
 experience.
 
-## System Architecture
+# System Architecture
 
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![Screenshot 2023-12-05 020415](https://github.com/sahil-rawat-2110/LMS-COURSIFY/assets/124564195/3c45ec3b-a655-4d7b-8181-1acec12cbada)
 
 
 # Features and Functionality
@@ -228,21 +226,20 @@ technology.
 # Screenshots
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot 2023-12-22 013111](https://github.com/sahil-rawat-2110/LMS-COURSIFY/assets/124564195/0ba4d097-2067-491d-9f2b-978effc8b222)
 
 
 
+![Screenshot 2023-12-22 013143](https://github.com/sahil-rawat-2110/LMS-COURSIFY/assets/124564195/ba5f38fa-3bd3-4ac5-8581-ebe00c651e58)
 
 
+![Screenshot 2023-12-22 013201](https://github.com/sahil-rawat-2110/LMS-COURSIFY/assets/124564195/982f0267-a4b8-4414-9573-0b95737b7efa)
 
 
+![Screenshot 2023-12-22 013252](https://github.com/sahil-rawat-2110/LMS-COURSIFY/assets/124564195/0d1ffa66-9da3-486a-b50a-4d3aa9505944)
 
 
-
-
-
-
-h
+![Screenshot 2023-12-22 013320](https://github.com/sahil-rawat-2110/LMS-COURSIFY/assets/124564195/5d555f78-3a39-4c84-aece-d94800358cdf)
 
 
 
